@@ -133,13 +133,15 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Changed to an element from class */
+/* Changed to an element from class & Hide the footer by setting visibility to hidden as in the png **/
 footer {
+    visibility : hidden;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 
 footer h2 {
     font-size: 20px;
