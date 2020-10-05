@@ -44,7 +44,6 @@ li {
     margin-left: 25px;
 }
 
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -63,7 +62,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-
 
 /* Main section attributes
  - float styles
@@ -141,7 +139,6 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 
 footer h2 {
     font-size: 20px;
